@@ -6,3 +6,4 @@ __pycache__/
 .nbconfig/
 .venv
 .ipynb_checkpoints
+.gitignore
