@@ -1,0 +1,8 @@
+
+# Jupyter files
+.jupyter/
+.ipython/
+__pycache__/
+.nbconfig/
+.venv
+.ipynb_checkpoints

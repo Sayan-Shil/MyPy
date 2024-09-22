@@ -1,0 +1,17 @@
+﻿Ticket_ID,Name ,Age,Class,Fare,Survived
+1001,John Smith,34,A,120000,Yes
+1002,William Johnson,32,C,480000,No
+1003,James Williams,34,D,360000,No
+1004,George Brown,21,C,500000,Yes
+1005,Charles Garcia,25,A,250000,Yes
+1006,Henry Davis,65,B,120000,Yes
+1007,Thomas Martinez,64,C,480000,No
+1008,Joseph Rodriguez,45,B,360000,No
+1009,Robert Miller,32,C,360000,No
+1010,Michael Jones,25,B,250000,No
+1011,David Taylor,24,D,500000,No
+1012,Richard Moore,45,B,120000,No
+1013,Edward Anderson,51,B,250000,Yes
+1014,Daniel Thomas,21,C,500000,Yes
+1015,Anthony White,29,B,360000,No
+1016,Christopher Martin 17,65,A,250000,Yes
